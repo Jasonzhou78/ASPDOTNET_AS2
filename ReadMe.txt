@@ -1,5 +1,5 @@
 ﻿2021-10-28
-0230
+1430
 Create a MVC project called as2 using individual credential, https under the instruction of Professor
 Steele.
 Test the project. It is succefully built as expected.
@@ -8,4 +8,5 @@ But i tried this differently by click the picture of darkley, go to github copy 
 copy it to wwwroot/lib/bootstrap/dist/css/bootstrap.css, save it. ()
 open blackboard, locate ASP.NET course content, download the css file and copy the source code to 
 wwwroot/css/site.css (before copy to it, all original code was deleted).
-
+1715
+add a readme.txt file, and commit change and push it github.

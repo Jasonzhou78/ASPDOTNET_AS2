@@ -10,3 +10,4 @@ open blackboard, locate ASP.NET course content, download the css file and copy t
 wwwroot/css/site.css (before copy to it, all original code was deleted).
 1715
 add a readme.txt file, and commit change and push it github.
+after updated bootstrap.css and site.css files, check its appearance, the appearance changed!

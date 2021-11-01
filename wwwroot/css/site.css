@@ -104,7 +104,9 @@ body {
     width: 100%;
 }
 
-
+.image {
+    align-content:center;
+}
 
 #logreg-forms {
     width: 412px;

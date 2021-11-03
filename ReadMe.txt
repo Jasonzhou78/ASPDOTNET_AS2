@@ -14,4 +14,7 @@ after updated bootstrap.css and site.css files, check its appearance, the appear
 2021-11-1
 13:30
 Added image to index page, it succeeded, but i tried to modify its style like putting in the center, it wont work.
-
+2021-11-3
+1251
+modify the startup.cs file.
+--delete option part in services.AddDefaultIdentity.

@@ -11,3 +11,7 @@ wwwroot/css/site.css (before copy to it, all original code was deleted).
 1715
 add a readme.txt file, and commit change and push it github.
 after updated bootstrap.css and site.css files, check its appearance, the appearance changed!
+2021-11-1
+13:30
+Added image to index page, it succeeded, but i tried to modify its style like putting in the center, it wont work.
+

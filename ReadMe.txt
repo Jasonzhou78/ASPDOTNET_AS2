@@ -59,8 +59,10 @@ push on the bottom right shows 21 commits. Try to commit, succeeded!
 
 16:16 all four projects show the same interfaces so far.
 16:30 
+--open as2 part 2 slides, follow the slides starting from page 2
 --migration using command Add-Migration InitialCreate and Update-Database, successfully built
 --check the migration files, there is a new file called 20211113212911_InitialCreate.cs generated.
 (noticed that this operation is different with as1, which does a few steps before migration.)
+--commited and push to github.
 
 

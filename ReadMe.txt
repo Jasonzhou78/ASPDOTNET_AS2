@@ -31,3 +31,21 @@ the downloaded version by dragging the new one to the folder.save it.
 --on line 22, remove text-dark
 --update footer class with text-white-50 and bg-primary, save it.
 --update file _loginPartial.cshtml in the shared folder
+2021-11-13
+11:00 check if my project works properly, it turned out 33 errors,most of them are assembly related errors.
+11:30 deleted other three projects, still errors
+12:00 use the old version with as2 project only, it works fine.
+12:40 added three projects to as2 projects, errors produced again.
+13:00 deleted these projects except as2, try to push to github, it says push failed
+
+14:45 view git and git/visual studio video, every video says there is a create repository in git menu,
+it actually no such thing. I believe this is because my project has created repository in github, 
+somehow I have to dissociate my local file with github file. I archived my previous version on github.
+
+15:50 try to modify the git/settings/source control/git repository settings/remote, deleted existing directories
+created new repository in the github web, and added the new address to git/settings/source control/git repository settings/remote
+
+16:00 check visual studio, under push pull at the bottom right, no changes, close and reopen visual studio and project
+push on the bottom right shows 21 commits. Try to commit, succeeded! 
+16:05 check if the project works. It does.
+16:7 check if files has been changed on the github. It did.

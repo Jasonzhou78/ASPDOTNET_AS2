@@ -48,4 +48,13 @@ created new repository in the github web, and added the new address to git/setti
 16:00 check visual studio, under push pull at the bottom right, no changes, close and reopen visual studio and project
 push on the bottom right shows 21 commits. Try to commit, succeeded! 
 16:05 check if the project works. It does.
-16:7 check if files has been changed on the github. It did.
+16:07 check if files has been changed on the github. It did.
+16:08 push and commited.
+16:08 try to added project_2 but not in the as2 folder. the project_2 was successfully added
+16:10 check if as2 still works fine. rebuilt as2. Succeeded!
+16:11 go ahead added another two projects under as2-copy, not under as2. All three projects undergo individual accouts
+ as credential method. and all in the folder as2-copy.
+
+16:14 check if the as2 project works well. built as2, it does.
+
+16:16 all four projects show the same interfaces so far.
